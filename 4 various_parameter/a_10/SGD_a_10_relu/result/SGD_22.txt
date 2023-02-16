@@ -1,0 +1,400 @@
+
+End of epoch  0, Training error nan
+
+End of epoch  0, Validation error nan
+
+End of epoch  10, Training error nan
+
+End of epoch  10, Validation error nan
+
+End of epoch  20, Training error nan
+
+End of epoch  20, Validation error nan
+
+End of epoch  30, Training error nan
+
+End of epoch  30, Validation error nan
+
+End of epoch  40, Training error nan
+
+End of epoch  40, Validation error nan
+
+End of epoch  50, Training error nan
+
+End of epoch  50, Validation error nan
+
+End of epoch  60, Training error nan
+
+End of epoch  60, Validation error nan
+
+End of epoch  70, Training error nan
+
+End of epoch  70, Validation error nan
+
+End of epoch  80, Training error nan
+
+End of epoch  80, Validation error nan
+
+End of epoch  90, Training error nan
+
+End of epoch  90, Validation error nan
+
+End of epoch  100, Training error nan
+
+End of epoch  100, Validation error nan
+
+End of epoch  110, Training error nan
+
+End of epoch  110, Validation error nan
+
+End of epoch  120, Training error nan
+
+End of epoch  120, Validation error nan
+
+End of epoch  130, Training error nan
+
+End of epoch  130, Validation error nan
+
+End of epoch  140, Training error nan
+
+End of epoch  140, Validation error nan
+
+End of epoch  150, Training error nan
+
+End of epoch  150, Validation error nan
+
+End of epoch  160, Training error nan
+
+End of epoch  160, Validation error nan
+
+End of epoch  170, Training error nan
+
+End of epoch  170, Validation error nan
+
+End of epoch  180, Training error nan
+
+End of epoch  180, Validation error nan
+
+End of epoch  190, Training error nan
+
+End of epoch  190, Validation error nan
+
+End of epoch  200, Training error nan
+
+End of epoch  200, Validation error nan
+
+End of epoch  210, Training error nan
+
+End of epoch  210, Validation error nan
+
+End of epoch  220, Training error nan
+
+End of epoch  220, Validation error nan
+
+End of epoch  230, Training error nan
+
+End of epoch  230, Validation error nan
+
+End of epoch  240, Training error nan
+
+End of epoch  240, Validation error nan
+
+End of epoch  250, Training error nan
+
+End of epoch  250, Validation error nan
+
+End of epoch  260, Training error nan
+
+End of epoch  260, Validation error nan
+
+End of epoch  270, Training error nan
+
+End of epoch  270, Validation error nan
+
+End of epoch  280, Training error nan
+
+End of epoch  280, Validation error nan
+
+End of epoch  290, Training error nan
+
+End of epoch  290, Validation error nan
+
+End of epoch  300, Training error nan
+
+End of epoch  300, Validation error nan
+
+End of epoch  310, Training error nan
+
+End of epoch  310, Validation error nan
+
+End of epoch  320, Training error nan
+
+End of epoch  320, Validation error nan
+
+End of epoch  330, Training error nan
+
+End of epoch  330, Validation error nan
+
+End of epoch  340, Training error nan
+
+End of epoch  340, Validation error nan
+
+End of epoch  350, Training error nan
+
+End of epoch  350, Validation error nan
+
+End of epoch  360, Training error nan
+
+End of epoch  360, Validation error nan
+
+End of epoch  370, Training error nan
+
+End of epoch  370, Validation error nan
+
+End of epoch  380, Training error nan
+
+End of epoch  380, Validation error nan
+
+End of epoch  390, Training error nan
+
+End of epoch  390, Validation error nan
+
+End of epoch  400, Training error nan
+
+End of epoch  400, Validation error nan
+
+End of epoch  410, Training error nan
+
+End of epoch  410, Validation error nan
+
+End of epoch  420, Training error nan
+
+End of epoch  420, Validation error nan
+
+End of epoch  430, Training error nan
+
+End of epoch  430, Validation error nan
+
+End of epoch  440, Training error nan
+
+End of epoch  440, Validation error nan
+
+End of epoch  450, Training error nan
+
+End of epoch  450, Validation error nan
+
+End of epoch  460, Training error nan
+
+End of epoch  460, Validation error nan
+
+End of epoch  470, Training error nan
+
+End of epoch  470, Validation error nan
+
+End of epoch  480, Training error nan
+
+End of epoch  480, Validation error nan
+
+End of epoch  490, Training error nan
+
+End of epoch  490, Validation error nan
+
+End of epoch  500, Training error nan
+
+End of epoch  500, Validation error nan
+
+End of epoch  510, Training error nan
+
+End of epoch  510, Validation error nan
+
+End of epoch  520, Training error nan
+
+End of epoch  520, Validation error nan
+
+End of epoch  530, Training error nan
+
+End of epoch  530, Validation error nan
+
+End of epoch  540, Training error nan
+
+End of epoch  540, Validation error nan
+
+End of epoch  550, Training error nan
+
+End of epoch  550, Validation error nan
+
+End of epoch  560, Training error nan
+
+End of epoch  560, Validation error nan
+
+End of epoch  570, Training error nan
+
+End of epoch  570, Validation error nan
+
+End of epoch  580, Training error nan
+
+End of epoch  580, Validation error nan
+
+End of epoch  590, Training error nan
+
+End of epoch  590, Validation error nan
+
+End of epoch  600, Training error nan
+
+End of epoch  600, Validation error nan
+
+End of epoch  610, Training error nan
+
+End of epoch  610, Validation error nan
+
+End of epoch  620, Training error nan
+
+End of epoch  620, Validation error nan
+
+End of epoch  630, Training error nan
+
+End of epoch  630, Validation error nan
+
+End of epoch  640, Training error nan
+
+End of epoch  640, Validation error nan
+
+End of epoch  650, Training error nan
+
+End of epoch  650, Validation error nan
+
+End of epoch  660, Training error nan
+
+End of epoch  660, Validation error nan
+
+End of epoch  670, Training error nan
+
+End of epoch  670, Validation error nan
+
+End of epoch  680, Training error nan
+
+End of epoch  680, Validation error nan
+
+End of epoch  690, Training error nan
+
+End of epoch  690, Validation error nan
+
+End of epoch  700, Training error nan
+
+End of epoch  700, Validation error nan
+
+End of epoch  710, Training error nan
+
+End of epoch  710, Validation error nan
+
+End of epoch  720, Training error nan
+
+End of epoch  720, Validation error nan
+
+End of epoch  730, Training error nan
+
+End of epoch  730, Validation error nan
+
+End of epoch  740, Training error nan
+
+End of epoch  740, Validation error nan
+
+End of epoch  750, Training error nan
+
+End of epoch  750, Validation error nan
+
+End of epoch  760, Training error nan
+
+End of epoch  760, Validation error nan
+
+End of epoch  770, Training error nan
+
+End of epoch  770, Validation error nan
+
+End of epoch  780, Training error nan
+
+End of epoch  780, Validation error nan
+
+End of epoch  790, Training error nan
+
+End of epoch  790, Validation error nan
+
+End of epoch  800, Training error nan
+
+End of epoch  800, Validation error nan
+
+End of epoch  810, Training error nan
+
+End of epoch  810, Validation error nan
+
+End of epoch  820, Training error nan
+
+End of epoch  820, Validation error nan
+
+End of epoch  830, Training error nan
+
+End of epoch  830, Validation error nan
+
+End of epoch  840, Training error nan
+
+End of epoch  840, Validation error nan
+
+End of epoch  850, Training error nan
+
+End of epoch  850, Validation error nan
+
+End of epoch  860, Training error nan
+
+End of epoch  860, Validation error nan
+
+End of epoch  870, Training error nan
+
+End of epoch  870, Validation error nan
+
+End of epoch  880, Training error nan
+
+End of epoch  880, Validation error nan
+
+End of epoch  890, Training error nan
+
+End of epoch  890, Validation error nan
+
+End of epoch  900, Training error nan
+
+End of epoch  900, Validation error nan
+
+End of epoch  910, Training error nan
+
+End of epoch  910, Validation error nan
+
+End of epoch  920, Training error nan
+
+End of epoch  920, Validation error nan
+
+End of epoch  930, Training error nan
+
+End of epoch  930, Validation error nan
+
+End of epoch  940, Training error nan
+
+End of epoch  940, Validation error nan
+
+End of epoch  950, Training error nan
+
+End of epoch  950, Validation error nan
+
+End of epoch  960, Training error nan
+
+End of epoch  960, Validation error nan
+
+End of epoch  970, Training error nan
+
+End of epoch  970, Validation error nan
+
+End of epoch  980, Training error nan
+
+End of epoch  980, Validation error nan
+
+End of epoch  990, Training error nan
+
+End of epoch  990, Validation error nan

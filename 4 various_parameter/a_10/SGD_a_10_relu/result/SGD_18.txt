@@ -1,0 +1,4 @@
+
+End of epoch  0, Training error 0.02276028053104704
+
+End of epoch  0, Validation error 0.021128383923869013

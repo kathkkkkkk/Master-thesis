@@ -1,0 +1,400 @@
+
+End of epoch  0, Training error 0.4234974291955261
+
+End of epoch  0, Validation error 0.4003995571019421
+
+End of epoch  10, Training error 0.21484354425710767
+
+End of epoch  10, Validation error 0.2029153091548315
+
+End of epoch  20, Training error 0.17643394244634947
+
+End of epoch  20, Validation error 0.16703774954623787
+
+End of epoch  30, Training error 0.1523279656335253
+
+End of epoch  30, Validation error 0.1449039930297541
+
+End of epoch  40, Training error 0.1355916196450989
+
+End of epoch  40, Validation error 0.12806565986147547
+
+End of epoch  50, Training error 0.12277479734106125
+
+End of epoch  50, Validation error 0.11515367174693861
+
+End of epoch  60, Training error 0.11248374712590724
+
+End of epoch  60, Validation error 0.10564876023014369
+
+End of epoch  70, Training error 0.10432855001856026
+
+End of epoch  70, Validation error 0.0988299072743484
+
+End of epoch  80, Training error 0.09805145686809008
+
+End of epoch  80, Validation error 0.09371729142234332
+
+End of epoch  90, Training error 0.0932196720329447
+
+End of epoch  90, Validation error 0.08947640930988882
+
+End of epoch  100, Training error 0.08932142676149153
+
+End of epoch  100, Validation error 0.08568468822541547
+
+End of epoch  110, Training error 0.08595630611872022
+
+End of epoch  110, Validation error 0.08224324347049872
+
+End of epoch  120, Training error 0.08289510982337707
+
+End of epoch  120, Validation error 0.07918601317640593
+
+End of epoch  130, Training error 0.08003606134728782
+
+End of epoch  130, Validation error 0.07654834634566954
+
+End of epoch  140, Training error 0.07734242690505198
+
+End of epoch  140, Validation error 0.07431360565455684
+
+End of epoch  150, Training error 0.07480009213617077
+
+End of epoch  150, Validation error 0.07241221694069441
+
+End of epoch  160, Training error 0.07239769282185735
+
+End of epoch  160, Validation error 0.07074343863889351
+
+End of epoch  170, Training error 0.0701212178870538
+
+End of epoch  170, Validation error 0.06920038375224355
+
+End of epoch  180, Training error 0.06795527841186721
+
+End of epoch  180, Validation error 0.06768942041643725
+
+End of epoch  190, Training error 0.06588561327361424
+
+End of epoch  190, Validation error 0.0661409258063467
+
+End of epoch  200, Training error 0.06389980344911157
+
+End of epoch  200, Validation error 0.06451148226029702
+
+End of epoch  210, Training error 0.0619859281416587
+
+End of epoch  210, Validation error 0.06278030206235184
+
+End of epoch  220, Training error 0.060131326717922845
+
+End of epoch  220, Validation error 0.06094455690678553
+
+End of epoch  230, Training error 0.058323859402551886
+
+End of epoch  230, Validation error 0.059017428713899846
+
+End of epoch  240, Training error 0.056555856514153416
+
+End of epoch  240, Validation error 0.05702913898719864
+
+End of epoch  250, Training error 0.05482849604896706
+
+End of epoch  250, Validation error 0.05502775250339848
+
+End of epoch  260, Training error 0.053153643444043254
+
+End of epoch  260, Validation error 0.05307565609909087
+
+End of epoch  270, Training error 0.051551462800714445
+
+End of epoch  270, Validation error 0.051239752658690144
+
+End of epoch  280, Training error 0.05004445098008274
+
+End of epoch  280, Validation error 0.04957747887961043
+
+End of epoch  290, Training error 0.04865052192258817
+
+End of epoch  290, Validation error 0.048124165696476096
+
+End of epoch  300, Training error 0.047378084160554036
+
+End of epoch  300, Validation error 0.04688716953859418
+
+End of epoch  310, Training error 0.04622461924627561
+
+End of epoch  310, Validation error 0.045848435256672794
+
+End of epoch  320, Training error 0.04517833702719098
+
+End of epoch  320, Validation error 0.04497282032798987
+
+End of epoch  330, Training error 0.044221386144478014
+
+End of epoch  330, Validation error 0.044217744601193036
+
+End of epoch  340, Training error 0.04333314388222958
+
+End of epoch  340, Validation error 0.043540828359424404
+
+End of epoch  350, Training error 0.042492759678776075
+
+End of epoch  350, Validation error 0.04290434651902243
+
+End of epoch  360, Training error 0.041680767183777695
+
+End of epoch  360, Validation error 0.042276936228535816
+
+End of epoch  370, Training error 0.04087994126956059
+
+End of epoch  370, Validation error 0.041633600941168795
+
+End of epoch  380, Training error 0.040075680153701825
+
+End of epoch  380, Validation error 0.04095497656189317
+
+End of epoch  390, Training error 0.03925615612955358
+
+End of epoch  390, Validation error 0.04022650133445332
+
+End of epoch  400, Training error 0.038412396749983625
+
+End of epoch  400, Validation error 0.039437820288157115
+
+End of epoch  410, Training error 0.0375383793618009
+
+End of epoch  410, Validation error 0.03858253984752022
+
+End of epoch  420, Training error 0.03663116006153558
+
+End of epoch  420, Validation error 0.03765831943500453
+
+End of epoch  430, Training error 0.0356910129393336
+
+End of epoch  430, Validation error 0.036667208616165396
+
+End of epoch  440, Training error 0.0347215226890123
+
+End of epoch  440, Validation error 0.03561607825786061
+
+End of epoch  450, Training error 0.03372955051149452
+
+End of epoch  450, Validation error 0.03451693572013146
+
+End of epoch  460, Training error 0.03272498111318133
+
+End of epoch  460, Validation error 0.03338686412259658
+
+End of epoch  470, Training error 0.0317201652773343
+
+End of epoch  470, Validation error 0.03224731925290184
+
+End of epoch  480, Training error 0.030729011614473938
+
+End of epoch  480, Validation error 0.03112260785508704
+
+End of epoch  490, Training error 0.029765763215847955
+
+End of epoch  490, Validation error 0.030037590344831007
+
+End of epoch  500, Training error 0.028843608895024807
+
+End of epoch  500, Validation error 0.02901495535544139
+
+End of epoch  510, Training error 0.02797337850577128
+
+End of epoch  510, Validation error 0.02807266294342634
+
+End of epoch  520, Training error 0.027162593956947274
+
+End of epoch  520, Validation error 0.027222184183952784
+
+End of epoch  530, Training error 0.026415059811229036
+
+End of epoch  530, Validation error 0.02646792248346178
+
+End of epoch  540, Training error 0.025731015366691194
+
+End of epoch  540, Validation error 0.02580780597975595
+
+End of epoch  550, Training error 0.02510771650681617
+
+End of epoch  550, Validation error 0.02523470101436806
+
+End of epoch  560, Training error 0.024540238237237492
+
+End of epoch  560, Validation error 0.024738158615853743
+
+End of epoch  570, Training error 0.0240222994725151
+
+End of epoch  570, Validation error 0.024306070569744927
+
+End of epoch  580, Training error 0.023546975971415713
+
+End of epoch  580, Validation error 0.023925982067005584
+
+End of epoch  590, Training error 0.023107241416467562
+
+End of epoch  590, Validation error 0.023585980214351338
+
+End of epoch  600, Training error 0.02269633288095179
+
+End of epoch  600, Validation error 0.0232751952045932
+
+End of epoch  610, Training error 0.022307967998288835
+
+End of epoch  610, Validation error 0.022984005646390058
+
+End of epoch  620, Training error 0.021936451851258684
+
+End of epoch  620, Validation error 0.022704048793090594
+
+End of epoch  630, Training error 0.021576710131303075
+
+End of epoch  630, Validation error 0.02242812189753865
+
+End of epoch  640, Training error 0.021224278324843828
+
+End of epoch  640, Validation error 0.022150038692661262
+
+End of epoch  650, Training error 0.020875268786338608
+
+End of epoch  650, Validation error 0.021864483791512183
+
+End of epoch  660, Training error 0.020526330577134273
+
+End of epoch  660, Validation error 0.021566890957729665
+
+End of epoch  670, Training error 0.020174611529973577
+
+End of epoch  670, Validation error 0.021253359054046832
+
+End of epoch  680, Training error 0.019817728095293297
+
+End of epoch  680, Validation error 0.020920611095194188
+
+End of epoch  690, Training error 0.01945374582626266
+
+End of epoch  690, Validation error 0.02056599598723513
+
+End of epoch  700, Training error 0.019081171503854973
+
+End of epoch  700, Validation error 0.02018752818063306
+
+End of epoch  710, Training error 0.01869895656346486
+
+End of epoch  710, Validation error 0.01978395690146039
+
+End of epoch  720, Training error 0.01830651038456545
+
+End of epoch  720, Validation error 0.01935485352829398
+
+End of epoch  730, Training error 0.017903720919214935
+
+End of epoch  730, Validation error 0.01890070304045492
+
+End of epoch  740, Training error 0.017490978899191437
+
+End of epoch  740, Validation error 0.018422983479895235
+
+End of epoch  750, Training error 0.017069200407156995
+
+End of epoch  750, Validation error 0.01792421635191318
+
+End of epoch  760, Training error 0.01663984101285293
+
+End of epoch  760, Validation error 0.01740797117080327
+
+End of epoch  770, Training error 0.016204893265852262
+
+End of epoch  770, Validation error 0.01687880927274043
+
+End of epoch  780, Training error 0.015766858642164504
+
+End of epoch  780, Validation error 0.01634215593968051
+
+End of epoch  790, Training error 0.0153286857633636
+
+End of epoch  790, Validation error 0.01580409619196078
+
+End of epoch  800, Training error 0.014893669496504265
+
+End of epoch  800, Validation error 0.015271098528810279
+
+End of epoch  810, Training error 0.014465310675615396
+
+End of epoch  810, Validation error 0.01474968204353172
+
+End of epoch  820, Training error 0.014047143203866148
+
+End of epoch  820, Validation error 0.014246054225445141
+
+End of epoch  830, Training error 0.013642542827694707
+
+End of epoch  830, Validation error 0.013765756599412805
+
+End of epoch  840, Training error 0.013254537840164978
+
+End of epoch  840, Validation error 0.013313359648922784
+
+End of epoch  850, Training error 0.012885644257540579
+
+End of epoch  850, Validation error 0.012892244443171273
+
+End of epoch  860, Training error 0.01253774540121017
+
+End of epoch  860, Validation error 0.012504495648483606
+
+End of epoch  870, Training error 0.012212028673159594
+
+End of epoch  870, Validation error 0.012150911945948476
+
+End of epoch  880, Training error 0.011908982583909005
+
+End of epoch  880, Validation error 0.01183112046958607
+
+End of epoch  890, Training error 0.011628447526710857
+
+End of epoch  890, Validation error 0.01154376710771782
+
+End of epoch  900, Training error 0.011369706814481791
+
+End of epoch  900, Validation error 0.011286747724393885
+
+End of epoch  910, Training error 0.011131601347557299
+
+End of epoch  910, Validation error 0.0110574468122433
+
+End of epoch  920, Training error 0.010912651822775267
+
+End of epoch  920, Validation error 0.010852957467699688
+
+End of epoch  930, Training error 0.01071117551669424
+
+End of epoch  930, Validation error 0.010670266494998085
+
+End of epoch  940, Training error 0.010525388946517404
+
+End of epoch  940, Validation error 0.01050639790854432
+
+End of epoch  950, Training error 0.01035349191784433
+
+End of epoch  950, Validation error 0.010358515327608977
+
+End of epoch  960, Training error 0.010193731867403693
+
+End of epoch  960, Validation error 0.01022398820991694
+
+End of epoch  970, Training error 0.010044449730371642
+
+End of epoch  970, Validation error 0.010100428880328681
+
+End of epoch  980, Training error 0.009904109864804026
+
+End of epoch  980, Validation error 0.009985707585348816
+
+End of epoch  990, Training error 0.009771317074445942
+
+End of epoch  990, Validation error 0.009877952072397918
