@@ -12,7 +12,7 @@ x_train, y_train, x_valid, y_valid, x_test, y_test  = get_data_compress(k=4)
 print('\n compression done')
 
 d = np.shape(x_train)[1]
-epochs = 1000 
+epochs = 100
 batch_size = 32
 K = 2**5
 learning_rate = 0.001
@@ -55,15 +55,13 @@ pred_index_test = result_format(pred_test)
 
 print('\n network training done')
 
-#error_train = error_compute(y_train, pred_train)
-#accuracy_train = accuracy_compute(y_train, pred_train)
-
-guess1, guess2 = 3.3, 3.5
+guess1, guess2 = 10, 50
 cov_x = np.cov(x_train.T)
-#px_train = (np.exp(-1 / 2 * np.sum(np.multiply(x_train.T, cov_x @ x_train.T), axis=0)) * 1 / (
-#                                (2 * np.pi) ** (d / 2)) / np.sqrt(np.linalg.det(cov_x))).reshape(len(x_train), 1)
-px_train = np.ones(N_train).reshape(N_train, 1)
-px_valid = np.ones(N_valid).reshape(N_valid, 1)
+
+px_train = (np.exp(-1 / 2 * np.sum(np.multiply(x_train.T, cov_x @ x_train.T), axis=0)) * 1 / (
+                        (2 * np.pi) ** (d / 2)) / np.sqrt(np.linalg.det(cov_x))).reshape(len(x_train), 1)
+px_valid = (np.exp(-1 / 2 * np.sum(np.multiply(x_valid.T, cov_x @ x_valid.T), axis=0)) * 1 / (
+                        (2 * np.pi) ** (d / 2)) / np.sqrt(np.linalg.det(cov_x))).reshape(len(x_valid), 1)
 
 w0 = method_2_w0(x_train, y_train, guess1, guess2, px_train)
 SB = method_2(w0, x_valid, y_valid, pred_index_valid, px_valid)

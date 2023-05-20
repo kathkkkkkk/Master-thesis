@@ -48,14 +48,15 @@ def method_2_w0(x, y, guess1, guess2, px):
     while np.abs(f[-1]) > 1e-4: 
         # w0_temp = w0[-1] - f[-1] * (w0[-1] - w0[-2]) / (f[-1] - f[-2])
         w0_temp = (w0[-1] + w0[-2]) / 2
-        if func_min(x, y, d, w0[-1], px) * func_min(x, y, d, w0_temp, px) < 0: 
+        f_temp = func_min(x, y, d, w0_temp, px)
+        if f[-1] * f_temp < 0: 
             w0 = np.append(w0, w0_temp)
-            f = np.append(f, func_min(x, y, d, w0_temp, px))
-        if func_min(x, y, d, w0[-2], px) * func_min(x, y, d, w0_temp, px) < 0: 
+            f = np.append(f, f_temp)
+        if f[-2] * f_temp < 0: 
             w0 = np.append(w0, w0[-2])
-            f = np.append(f, func_min(x, y, d, w0[-2], px))
+            f = np.append(f, f[-2])
             w0 = np.append(w0, w0_temp)
-            f = np.append(f, func_min(x, y, d, w0_temp, px))
+            f = np.append(f, f_temp)
         
     w0 = w0[-1]
 
